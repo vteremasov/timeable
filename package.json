@@ -1,0 +1,28 @@
+{
+  "name": "timeable",
+  "version": "1.0.0",
+  "description": "An app for creating binary buffer uuid with timestamps and manipulating with it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vteremasov/timeable.git"
+  },
+  "keywords": [
+    "binary",
+    "buffer",
+    "uuid",
+    "timestamp"
+  ],
+  "author": "vteremasov,tounano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vteremasov/timeable/issues"
+  },
+  "homepage": "https://github.com/vteremasov/timeable#readme",
+  "dependencies": {
+    "xtend": "^4.0.1"
+  }
+}
